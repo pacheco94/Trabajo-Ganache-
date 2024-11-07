@@ -60,7 +60,7 @@ function App() {
            {!ganacheConnected && (
             <div>
                 <p>Error: Ganache no esta conectado.
-                    Por favor abra Ganache y recarge la pagina.
+                    Por favor abra Ganache y recargue la pagina.
                 </p>
             </div>
            )}
